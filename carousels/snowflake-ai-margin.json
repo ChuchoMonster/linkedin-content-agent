@@ -1,0 +1,19 @@
+{
+  "slug": "snowflake-ai-margin",
+  "title": "Snowflake is buying growth with gross margin",
+  "angle": "AI workloads accelerated revenue 7 points and cost a point of product gross margin; headcount covered the difference.",
+  "frames": [
+    { "type": "display", "eyebrow": "Enterprise AI",
+      "text": "Snowflake's growth just accelerated to 37% and the stock jumped 17%." },
+    { "type": "stat", "bg": "band", "eyebrow": "Acceleration", "stat": "37%",
+      "text": "Product revenue growth, up from 30% at the end of last year." },
+    { "type": "head", "eyebrow": "The Driver",
+      "text": "AI products were about half of that acceleration. CoCo is now in 9,100 accounts." },
+    { "type": "stat", "bg": "band", "eyebrow": "The Cost", "stat": "74%",
+      "text": "Full-year product gross margin guidance, cut from 75%. AI workloads carry lower contribution margins." },
+    { "type": "head", "bg": "tint", "eyebrow": "The Offset",
+      "text": "Operating margin guide went up anyway. 334 people added this year, against 935 last year." },
+    { "type": "head", "bg": "panel", "eyebrow": "The Take",
+      "text": "AI revenue is real revenue, it just costs more to deliver. Hiring covered the difference." }
+  ]
+}

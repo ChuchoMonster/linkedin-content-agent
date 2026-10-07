@@ -1,0 +1,43 @@
+{
+  "slug": "stripe-openrouter",
+  "title": "Stripe paid $7B for the meter",
+  "angle": "The margin is moving to the billing layer, not the model layer.",
+  "frames": [
+    {
+      "type": "display",
+      "eyebrow": "AI Infrastructure",
+      "text": "Stripe just paid $7B for a company that doesn't build models."
+    },
+    {
+      "type": "stat",
+      "bg": "band",
+      "eyebrow": "The Price",
+      "stat": "$7B",
+      "text": "For OpenRouter, the gateway that routes requests between AI models."
+    },
+    {
+      "type": "stat",
+      "bg": "band",
+      "eyebrow": "Three Months Earlier",
+      "stat": "$1.3B",
+      "text": "Its valuation in May. Stripe paid more than 5x that."
+    },
+    {
+      "type": "head",
+      "eyebrow": "What It Actually Does",
+      "text": "Moves your request to the cheapest model that can handle it."
+    },
+    {
+      "type": "head",
+      "bg": "tint",
+      "eyebrow": "Where The Margin Went",
+      "text": "Not the model. The meter. Someone has to count tokens and bill for them."
+    },
+    {
+      "type": "head",
+      "bg": "panel",
+      "eyebrow": "The Take",
+      "text": "Turns out the plumbing might be the moat after all."
+    }
+  ]
+}

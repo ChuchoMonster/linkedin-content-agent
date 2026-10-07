@@ -1,0 +1,49 @@
+{
+  "entries": [
+    {
+      "date": "2026-08-17",
+      "slug": "stripe-openrouter",
+      "headline": "Stripe paid $7B for OpenRouter, the AI model gateway",
+      "entities": ["Stripe", "OpenRouter"],
+      "angle": "margin moved to the billing layer, not the model",
+      "format": "carousel",
+      "permalink": ""
+    },
+    {
+      "date": "2026-08-19",
+      "slug": "etched",
+      "headline": "Etched raised $700M at $21B, doubling in under a month",
+      "entities": ["Etched", "Jane Street"],
+      "angle": "capital moving from models to inference hardware",
+      "format": "carousel",
+      "permalink": ""
+    },
+    {
+      "date": "2026-08-21",
+      "slug": "nvidia-ohio",
+      "headline": "Nvidia backs $105B for OpenAI Ohio data center",
+      "entities": ["Nvidia", "OpenAI", "SoftBank"],
+      "angle": "vendor financing / order book = loan book",
+      "format": "carousel",
+      "permalink": ""
+    },
+    {
+      "date": "2026-09-23",
+      "slug": "oped-model-price-war",
+      "headline": "OP-ED: three labs shipped models in two days and competed only on price",
+      "entities": ["Anthropic", "OpenAI", "xAI"],
+      "angle": "theme 3: commodity pricing pushes labs into other industries",
+      "format": "text",
+      "permalink": ""
+    },
+    {
+      "date": "2026-10-02",
+      "slug": "micron-87-percent-margin",
+      "headline": "Micron posted an 87% gross margin on memory chips",
+      "entities": ["Micron"],
+      "angle": "the component supplier is capturing the AI margin",
+      "format": "carousel",
+      "permalink": ""
+    }
+  ]
+}

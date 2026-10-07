@@ -1,0 +1,19 @@
+{
+  "slug": "micron-87-percent-margin",
+  "title": "Micron posted an 87% gross margin on memory chips",
+  "angle": "The component supplier is capturing the AI margin, and it has already sold most of 2027.",
+  "frames": [
+    { "type": "display", "eyebrow": "AI Infrastructure",
+      "text": "Micron just posted an 87% gross margin on memory chips." },
+    { "type": "stat", "bg": "band", "eyebrow": "Fiscal Q4 2026", "stat": "$54.23B",
+      "text": "Quarterly revenue, against $11.32B in the same quarter a year ago." },
+    { "type": "stat", "eyebrow": "Gross Margin", "stat": "87%",
+      "text": "Full fiscal year came in at 81.1%, up from 41.1% the year before." },
+    { "type": "head", "bg": "band", "eyebrow": "2027 Supply",
+      "text": "More than 75% of next year's output is already committed." },
+    { "type": "head", "bg": "tint", "eyebrow": "Mehrotra, On The Call",
+      "text": "We do not have line of sight to when supply and demand return to balance." },
+    { "type": "head", "bg": "panel", "eyebrow": "The Take",
+      "text": "Everybody's arguing about which lab wins. Micron is charging all of them rent." }
+  ]
+}

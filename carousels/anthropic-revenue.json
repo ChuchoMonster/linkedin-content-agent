@@ -1,0 +1,43 @@
+{
+  "slug": "anthropic-revenue",
+  "title": "Anthropic's $11.5B quarter",
+  "angle": "The AI spend is real, and it is coming from working practitioners.",
+  "frames": [
+    {
+      "type": "display",
+      "eyebrow": "AI Economics",
+      "text": "Anthropic did $11.5B in a quarter and turned a profit."
+    },
+    {
+      "type": "stat",
+      "bg": "band",
+      "eyebrow": "Q2 2026",
+      "stat": "$11.5B",
+      "text": "Preliminary revenue, up from $4.73B the previous quarter."
+    },
+    {
+      "type": "stat",
+      "bg": "band",
+      "eyebrow": "Same Quarter, Last Year",
+      "stat": "$787M",
+      "text": "Twelve months earlier. That's not growth, that's a different company."
+    },
+    {
+      "type": "head",
+      "eyebrow": "The First Profit",
+      "text": "Positive operating income, earlier than most people had it modelled."
+    },
+    {
+      "type": "head",
+      "bg": "tint",
+      "eyebrow": "The Caveat",
+      "text": "Preliminary numbers, shown to investors ahead of a possible IPO."
+    },
+    {
+      "type": "head",
+      "bg": "panel",
+      "eyebrow": "The Take",
+      "text": "The spend is real, and a lot of it comes from people like me."
+    }
+  ]
+}

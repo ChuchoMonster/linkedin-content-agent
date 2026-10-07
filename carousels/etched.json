@@ -1,0 +1,19 @@
+{
+  "slug": "etched",
+  "title": "Etched doubled to $21B in a month",
+  "angle": "The capital is moving from models to the hardware that serves them.",
+  "frames": [
+    { "type": "display", "eyebrow": "AI Hardware",
+      "text": "A chip company just doubled its valuation in under a month." },
+    { "type": "stat", "bg": "band", "eyebrow": "The Round", "stat": "$700M",
+      "text": "Raised this week, led by the trading firm Jane Street." },
+    { "type": "stat", "bg": "band", "eyebrow": "The Valuation", "stat": "$21B",
+      "text": "Up from $10.3B in July. Doubled in under a month." },
+    { "type": "head", "eyebrow": "Not A Deck",
+      "text": "Over $1B in orders already booked, and the chips are shipping." },
+    { "type": "head", "bg": "tint", "eyebrow": "What It Sells",
+      "text": "Full systems for running AI models. Not for training them." },
+    { "type": "head", "bg": "panel", "eyebrow": "The Take",
+      "text": "Everyone watches which model wins. The money moved to inference." }
+  ]
+}

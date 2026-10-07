@@ -1,0 +1,42 @@
+{
+  "slug": "a-adoption",
+  "title": "Gemini hit a billion users",
+  "angle": "Market shape. Being best did not drive the adoption. Stat-led.",
+  "frames": [
+    {
+      "type": "display",
+      "eyebrow": "AI Adoption",
+      "text": "Gemini hit a billion users. It isn't the best model."
+    },
+    {
+      "type": "stat",
+      "bg": "band",
+      "eyebrow": "Monthly Users",
+      "stat": "1B",
+      "text": "Google's fastest-growing product ever shipped."
+    },
+    {
+      "type": "head",
+      "eyebrow": "The Announcement",
+      "text": "Announced August 11. The 14th Google product to reach a billion."
+    },
+    {
+      "type": "stat",
+      "bg": "band",
+      "eyebrow": "ChatGPT",
+      "stat": "June",
+      "text": "When it crossed the same line. Two months earlier."
+    },
+    {
+      "type": "head",
+      "eyebrow": "What That Means",
+      "text": "The best model didn't win this. The most available one did."
+    },
+    {
+      "type": "head",
+      "bg": "panel",
+      "eyebrow": "The Verdict",
+      "text": "Demand for AI isn't sitting at the frontier. It's everywhere."
+    }
+  ]
+}

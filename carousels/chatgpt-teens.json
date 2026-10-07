@@ -1,0 +1,19 @@
+{
+  "slug": "chatgpt-teens",
+  "title": "OpenAI ships a teen ChatGPT",
+  "angle": "Read it as legal strategy, not product strategy.",
+  "frames": [
+    { "type": "display", "eyebrow": "AI Policy",
+      "text": "OpenAI just shipped a teen version of ChatGPT." },
+    { "type": "head", "bg": "tint", "eyebrow": "Who It's For",
+      "text": "Ages 13 to 17, with learning tools and optional parental controls." },
+    { "type": "head", "eyebrow": "What's Blocked",
+      "text": "Romantic roleplay, graphic violence, self-harm. Tighter limits throughout." },
+    { "type": "stat", "bg": "band", "eyebrow": "The Context", "stat": "29",
+      "text": "State attorneys general taking Meta to trial over youth harm." },
+    { "type": "head", "bg": "tint", "eyebrow": "Read It Again",
+      "text": "This isn't a product launch. It's a liability launch." },
+    { "type": "head", "bg": "panel", "eyebrow": "The Take",
+      "text": "Better they build the guardrails now than have a court write them." }
+  ]
+}
