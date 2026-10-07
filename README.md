@@ -1,5 +1,7 @@
 # LinkedIn content agent
 
+![tests](https://github.com/ChuchoMonster/linkedin-content-agent/actions/workflows/tests.yml/badge.svg)
+
 An autonomous agent that writes and schedules my LinkedIn posts. Every weekday
 morning a scheduler starts Claude Code headless. It finds two AI news stories I
 haven't covered, drafts posts in my voice, checks them against hard rules
@@ -125,6 +127,14 @@ docs/examples/            machine draft vs. my rewrite, with the rules they prod
 posts/  carousels/        a sample of 10 published posts and their carousel specs
 drafts/oped/queue/        approved op-eds waiting for a slot
 ```
+
+## Tests
+
+- `pip install -r requirements-dev.txt`, then `pytest` from the repo root.
+- Covers every gate in `validate_post.py` (pass and fail), duplicate-story detection in `coverage.py`, the Eastern-time and cancel-window rules in `buffer_schedule.py`, and the Buffer GraphQL requests themselves.
+- Also checks carousel spec limits, content-hashed hosting, and that the sample posts and carousels in this repo still match what the README says about them.
+- No network, no credentials and no Chrome: HTTP, `netlify`, `curl` and Chrome are all replaced with fakes.
+- Runs on every push and pull request via GitHub Actions.
 
 ## Setup
 
