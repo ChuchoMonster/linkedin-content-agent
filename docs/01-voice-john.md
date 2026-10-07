@@ -11,7 +11,7 @@ Built from 13 LinkedIn posts. Every rule below points to a line in the samples.
 - Compress with abbreviations and casual spelling: bec, ppl, hrs, $, mo, IMO, FYI, TLDR, aournd. Typos stay in. The posts read like they were typed fast on a phone and shipped.
 - Use "→" for scannable lists of features, steps, or triggers.
 - Close with a flat, dry verdict ("So. long story short... anybody can do anything now.") or a joke. Never a question -- see the closing-questions section below.
-- Make jokes by overshooting the scale of the thing: "check back an hour later expecting an entire app/website/unicorn to be created", "I'd feel safer sending $ to a Nigerian prince."
+- Make jokes by overshooting the scale of the thing: "check back an hour later expecting an entire app/website/unicorn to be created", "I'd feel safer handing my laptop to a stranger at the airport."
 
 ## Register — the thing the machine gets wrong
 
